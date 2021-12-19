@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "khanasubkliye-ksl",
+    "slug": "khanasubkliye-ksl",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "Khana Sub k Liye Final Hackathon Project for Saylani. "
+  },
+  "name": "khanasubkliye-ksl"
+}
